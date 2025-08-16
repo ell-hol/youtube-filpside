@@ -1,0 +1,3 @@
+[submodule "invoicefast"]
+	path = invoicefast
+	url = https://github.com/ell-hol/invoicefast
